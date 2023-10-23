@@ -10,7 +10,7 @@ table{
 
     
     margin-top: 50px;
-    background-color: rgb(167, 170, 209);
+    background-color: rgb(199, 199, 199);
     text-align: left;
     border-collapse:collapse ;
     width: 100%;
@@ -31,6 +31,6 @@ th,td{
 
 
 thead{
-    background-color: rgb(127, 176, 255);
-    border-bottom: solid 5px rgba(86, 101, 218, 0.4);
+    background-color: rgb(146, 149, 153);
+    border-bottom: solid 5px rgba(145, 150, 189, 0.4);
 }
